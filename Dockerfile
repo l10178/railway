@@ -1,1 +1,1 @@
-FROM plantuml/plantuml-server:jetty
+FROM plantuml/plantuml-server:jetty-v1.2023.7
